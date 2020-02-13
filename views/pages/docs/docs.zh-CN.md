@@ -439,6 +439,6 @@ Easy Mock 并没有强制要求使用 Swagger，所以即使没有 Swagger 我�
 ## 其它
 ### 反馈
 
-扫描以下二维码，有任何问题可以在群内反馈。
+<!-- 扫描以下二维码，有任何问题可以在群内反馈。
 
-![Easy Mock 反馈群](./images/qq-qun.jpg) {.qq-qun}
+![Easy Mock 反馈群](./images/qq-qun.jpg) {.qq-qun} -->

@@ -55,7 +55,7 @@
             </template>
             <li
               class="ivu-menu-item"
-              @click="open('https://github.com/easy-mock/easy-mock')">
+              @click="open('https://github.com/simonwong/yq-mock')">
               <Icon type="link"></Icon> GitHub
             </li>
             <li
