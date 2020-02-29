@@ -54,7 +54,7 @@ module.exports = class UtilController {
    */
 
   static async upload (ctx) {
-    const origin = ctx.request.origin
+    const origin = ctx.request.header.origin
     const expireDay = uploadConf.expire.day
     const hash = crypto.createHash('md5')
     const date = moment().format('YYYY/MM/DD')
