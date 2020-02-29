@@ -15,4 +15,4 @@ RUN npm run build
 
 EXPOSE 7300
 
-CMD NODE_ENV=production node app.js
+CMD NODE_ENV=production pm2-runtime --json app.js
